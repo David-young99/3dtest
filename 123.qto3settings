@@ -1,0 +1,192 @@
+{
+  "KEYFRAMES": {
+    "camera": {
+      "groups": []
+    },
+    "enabled": false,
+    "layers": {
+      "EUD_CP_DEMS_2500015000_AA_38d3c3e1_53bb_44ac_a2a8_2f5fe36ab98f": {
+        "enabled": true,
+        "groups": []
+      },
+      "EUD_CP_DEMS_2500015000_AA_4ffc2312_7401_4223_931a_368b847f4184": {
+        "enabled": true,
+        "groups": []
+      },
+      "OUTPUT_6445c392_c445_4351_8886_02031cbb6dcb": {
+        "enabled": true,
+        "groups": []
+      },
+      "fp:13ae453a": {
+        "enabled": true,
+        "groups": []
+      }
+    },
+    "repeat": false,
+    "startOnLoad": false
+  },
+  "LAYERS": [
+    {
+      "geomType": 0,
+      "layerId": "EUD_CP_DEMS_2500015000_AA_4ffc2312_7401_4223_931a_368b847f4184",
+      "name": "EUD_CP-DEMS_2500015000-AA",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": false,
+        "checkBox_Frame": false,
+        "checkBox_Sides": false,
+        "checkBox_Tiles": false,
+        "checkBox_Visible": true,
+        "checkBox_Wireframe": false,
+        "colorButton_Edge": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_Side": [
+          204,
+          187,
+          170,
+          255
+        ],
+        "colorButton_Wireframe": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "comboBox_ClipLayer": null,
+        "horizontalSlider_DEMSize": 6,
+        "lineEdit_Bottom": "0",
+        "lineEdit_Name": "",
+        "materials": [
+          {
+            "id": "247401ee",
+            "name": "map (canvas)",
+            "properties": {
+              "checkBox_Shading": true,
+              "checkBox_TransparentBackground": false,
+              "comboBox_TextureSize": "1024",
+              "radioButton_PNG": true,
+              "spinBox_Opacity": 100
+            },
+            "type": 0
+          }
+        ],
+        "mtlId": "247401ee",
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3
+      },
+      "visible": true
+    },
+    {
+      "geomType": 0,
+      "layerId": "EUD_CP_DEMS_2500015000_AA_38d3c3e1_53bb_44ac_a2a8_2f5fe36ab98f",
+      "name": "EUD_CP-DEMS_2500015000-AA copiar",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": false,
+        "checkBox_Frame": false,
+        "checkBox_Sides": false,
+        "checkBox_Tiles": false,
+        "checkBox_Visible": true,
+        "checkBox_Wireframe": false,
+        "colorButton_Edge": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_Side": [
+          204,
+          187,
+          170,
+          255
+        ],
+        "colorButton_Wireframe": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "comboBox_ClipLayer": null,
+        "horizontalSlider_DEMSize": 2,
+        "lineEdit_Bottom": "0",
+        "lineEdit_Name": "",
+        "materials": [
+          {
+            "id": "358e22e3",
+            "name": "map (canvas)",
+            "properties": {},
+            "type": 0
+          }
+        ],
+        "mtlId": "358e22e3",
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3
+      },
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "OUTPUT_6445c392_c445_4351_8886_02031cbb6dcb",
+      "name": "Mapa de Sombras (Hillshade)",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": false,
+        "checkBox_Frame": false,
+        "checkBox_Sides": false,
+        "checkBox_Tiles": false,
+        "checkBox_Visible": true,
+        "checkBox_Wireframe": false,
+        "colorButton_Edge": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_Side": [
+          204,
+          187,
+          170,
+          255
+        ],
+        "colorButton_Wireframe": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "comboBox_ClipLayer": null,
+        "horizontalSlider_DEMSize": 2,
+        "lineEdit_Bottom": "0",
+        "lineEdit_Name": "",
+        "materials": [
+          {
+            "id": "f34296e9",
+            "name": "map (canvas)",
+            "properties": {},
+            "type": 0
+          }
+        ],
+        "mtlId": "f34296e9",
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3
+      },
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "fp:13ae453a",
+      "name": "Flat Plane",
+      "properties": {},
+      "visible": false
+    }
+  ],
+  "OPT": {},
+  "OutputFilename": "C:/Users/B89124/Desktop/Nueva carpeta\\index.html",
+  "Template": "3DViewer.html",
+  "Title": "",
+  "Version": 20701
+}
